@@ -1,0 +1,32 @@
+Logs/
+
+iOSBuild/
+
+Assets/Firebase/
+Assets/StreamingAssets/
+Assets/google-services.*
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+*.pyc
+GeneratedLocalRepo/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vscode/
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.meta
+
+build/
