@@ -28,5 +28,8 @@ ExportedObj/
 *.suo
 *.sln
 *.meta
+*.utmp/
+*.vs/
+*.vsconfig
 
 build/
